@@ -19,6 +19,7 @@ import source.Classes.*;
 
 public class JFrameCampo extends JFrame {
 
+
     Constantes c;
     JPanel panelBarra;
     JPanel panelCampo;
