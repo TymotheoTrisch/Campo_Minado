@@ -64,6 +64,8 @@ Bem-vindo ao Campo Minado! Este é um jogo clássico onde o objetivo é descobri
 
 Divirta-se jogando o Campo Minado!
 
+# Visual do Jogo
+![Campo_Minado_Imagem](https://github.com/TymotheoTrisch/Campo_Minado/blob/main/Campo_Minado_Image.png)
 
 # Estrutura do Projeto
 O projeto foi dividido em Logica e Visual:
